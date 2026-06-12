@@ -88,7 +88,7 @@ streamlit run frontend/app.py
 ```text
 Estimated Price: ₹ 65,00,000
 ```
-##🧠 Machine Learning Workflow
+🧠 Machine Learning Workflow
 - Data Cleaning
 - Feature Engineering
 - Outlier Removal
@@ -112,7 +112,7 @@ Estimated Price: ₹ 65,00,000
 - Improve UI/UX design
 
 
-##👨‍💻 Author
+👨‍💻 Author
 Neeraj Mittal
 Data Science & AI/ML Enthusiast 🚀
 
