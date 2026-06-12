@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Models (optional)
+*.pkl
+
+# Datasets (optional if large)
+datasets/
+
+# Env
+.env
+venv/
