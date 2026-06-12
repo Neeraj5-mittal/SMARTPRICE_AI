@@ -62,12 +62,14 @@ SmartPrice-AI/
 ├── requirements.txt
 └── README.md
 
+```
+
 ## 🚀 Run Project
 
 ### ▶ Backend (FastAPI)
 ```bash
 uvicorn backend.main:app --reload
-
+```
 API will run at:
 
 http://127.0.0.1:8000
@@ -85,7 +87,7 @@ streamlit run frontend/app.py
 ## Output:
 ```text
 Estimated Price: ₹ 65,00,000
-
+```
 ##🧠 Machine Learning Workflow
 - Data Cleaning
 - Feature Engineering
