@@ -76,17 +76,17 @@ streamlit run frontend/app.py
 
 ## 📊 Sample Prediction
 
-### Input:
+## Input:
 - Location: Bangalore  
 - Area: 1200 sqft  
 - Bedrooms: 2  
 - Bathrooms: 2  
 
-### Output:
+## Output:
 ```text
 Estimated Price: ₹ 65,00,000
 
-###🧠 Machine Learning Workflow
+##🧠 Machine Learning Workflow
 - Data Cleaning
 - Feature Engineering
 - Outlier Removal
@@ -95,14 +95,14 @@ Estimated Price: ₹ 65,00,000
 - Model Saving (.pkl)
 - Deployment using FastAPI
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 - Python 🐍
 - Pandas & NumPy 📊
 - Scikit-learn 🤖
 - FastAPI ⚡
 - Streamlit 🎨
 
-### 🚀 Future Improvements
+## 🚀 Future Improvements
 - Deploy on AWS / Render / Streamlit Cloud
 - Improve model accuracy (XGBoost / Random Forest)
 - Add authentication system
@@ -110,7 +110,7 @@ Estimated Price: ₹ 65,00,000
 - Improve UI/UX design
 
 
-###👨‍💻 Author
+##👨‍💻 Author
 Neeraj Mittal
 Data Science & AI/ML Enthusiast 🚀
 
