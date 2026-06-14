@@ -276,7 +276,7 @@ if predict:
         }
         try:
             response = requests.post(
-                "http://127.0.0.1:8000/predict-house",
+                "https://smartprice-ai-7.onrender.com/predict-house",
                 json=payload,
                 timeout=10
             )
